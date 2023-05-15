@@ -5,3 +5,4 @@ def upper_string(string):
 def title_string(string):
     """Функция делает первый символ каждого слова в строке заглавным"""
     return string.title()
+
